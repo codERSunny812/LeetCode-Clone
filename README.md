@@ -35,4 +35,26 @@ Welcome to the LeetCode Clone project! This is a web application built with Reac
 
    ```bash
    git clone https://github.com/your-username/leetcode-clone.git
-   cd leetcode-clone
+   
+   ```
+
+2. Move to the directory:
+      ```bash
+      cd Leetcode-clone
+      ```
+
+3. Install the required dependencies:
+   ```bash
+   npm install
+     or
+   yarn
+   ```
+
+4. Start the development Server:
+```bash
+npm run dev
+  or
+yarn run dev
+```
+
+   
